@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Inter Regular';
+    font-family: 'Inter';
     src: url("./Inter/InterRegular/Inter-Regular.woff") format("woff"),
     url("./Inter/InterRegular/Inter-Regular.woff2") format("woff2"),
     url("./Inter/InterRegular/Inter-Regular.ttf") format("truetype"),
@@ -8,7 +8,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Inter Bold';
+    font-family: 'Inter';
     src: url("./Inter/InterBold/Inter-Bold.woff") format("woff"),
     url("./Inter/InterBold/Inter-Bold.woff2") format("woff2"),
     url("./Inter/InterBold/Inter-Bold.ttf") format("truetype"),
@@ -17,7 +17,7 @@
     font-style: normal;
 }
 @font-face {
-    font-family: 'Inter Black';
+    font-family: 'Inter';
     src: url("./Inter/InterBlack/Inter-Black.woff") format("woff"),
     url("./Inter/InterBlack/Inter-Black.woff2") format("woff2"),
     url("./Inter/InterBlack/Inter-Black.ttf") format("truetype"),
